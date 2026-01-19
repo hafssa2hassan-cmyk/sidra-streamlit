@@ -1,0 +1,9 @@
+streamlit
+yfinance
+pandas
+numpy
+xgboost
+scikit-learn
+tabulate
+pytz
+scipy
